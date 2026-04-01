@@ -38,6 +38,10 @@ Returns performance comparison
 
 ---
 
+“Added custom metric: Daily Returns & Moving Average for better insights”
+
+---
+
 ## ▶️ How to Run
 
 ```bash
